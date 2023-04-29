@@ -166,7 +166,7 @@
 
 /* apps pequeñas*/
 
-@media screen{
+@media screen and (max-width:480px){
     .contenedor{
         display: flex;
         flex-direction: row;
